@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppHike</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoicGh1dHQiLCJhIjoiY2xvYmlvaHR3MHcxaTJqcW55ZWhoaXVkMCJ9.2Hzlw0cr86UYUjQIWsYBSg</string>
+</resources>
