@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    tools:context=".edit"
     android:orientation="vertical"
-    android:gravity="center"
-    tools:context=".MainActivity">
+    android:gravity="center">
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -16,9 +15,28 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Manager Hiking App"
-            android:textColor="#EC6B97"
-            android:textSize="30dp" />
-
+            android:textColor="@color/colorAccent"
+            android:textSize="30dp"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Id Hike"
+            />
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:id="@+id/id"
+            android:textAlignment="center"
+            />
     </LinearLayout>
     <LinearLayout
         android:layout_width="wrap_content"
@@ -146,18 +164,24 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:background="@color/colorAccent"
-            android:text="Save"
-            android:textColor="#100F0F"
-            app:iconTint="#1C1B1B" />
+            android:background="@color/colorPrimary"
+            android:text="Edit" />
 
         <Button
-            android:id="@+id/bt2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:id="@+id/bt2"
+            android:text="Delete"
             android:background="@color/colorAccent"
-            android:text="View"
-            android:textColor="#020202" />
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/bt3"
+            android:text="Back"
+            android:background="@color/colorPrimaryDark"
+            />
     </LinearLayout>
 </LinearLayout>

@@ -1,4 +1,4 @@
-package com.example.apphike;
+package com.example.mobileapp;
 
 import org.junit.Test;
 
