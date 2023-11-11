@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoCRUDOperationWithSQLite.Views.ManageUserPage"
+             xmlns:viewmodel="clr-namespace:DemoCRUDOperationWithSQLite.ViewModels"
+             x:DataType="viewmodel:ManageUserPageViewmodel"
+             xmlns:inputLayout="clr-namespace:Syncfusion.Maui.Core;assembly=Syncfusion.Maui.Core"
+             Title="{Binding Title}">
+
+    <VerticalStackLayout Margin="0,10,0,0">
+        <inputLayout:SfTextInputLayout Hint="Name Hike">
+            <Entry Text="{Binding NewUser.Name}" />
+        </inputLayout:SfTextInputLayout>
+        <BoxView></BoxView>
+        
+        
+        <inputLayout:SfTextInputLayout Hint="Location">
+            <Entry Text="{Binding NewUser.Location}" />
+        </inputLayout:SfTextInputLayout>
+        <BoxView></BoxView>
+
+
+        <inputLayout:SfTextInputLayout Hint="Discription">
+            <Entry Text="{Binding NewUser.Discription}" />
+        </inputLayout:SfTextInputLayout>
+        <BoxView></BoxView>
+
+        <inputLayout:SfTextInputLayout Hint="Length">
+        <Entry Text="{Binding NewUser.Length}" />
+        </inputLayout:SfTextInputLayout>
+        <BoxView></BoxView>
+
+        <Button Text="Save Detail" Margin="10" Command="{Binding SaveUserCommand}"></Button>
+    </VerticalStackLayout>
+</ContentPage>
