@@ -13,8 +13,12 @@ namespace DemoCRUDOperationWithSQLite.Models
         public int Id { get; set; }
         public string Name { get; set; }
         public string Location { get; set; }
-        public string Discription { get; set; }
-        public string Length { get; set; }
+        public string Email { get; set; }
 
+        public string Date { get; set; }
+        public string Length { get; set; }
+        public string Level { get; set; }
+        public string Disciption { get; set; }
+        public string Parking { get; set; }
     }
 }

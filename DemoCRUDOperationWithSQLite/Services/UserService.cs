@@ -18,7 +18,7 @@ namespace DemoCRUDOperationWithSQLite.Services
 
         public async Task<List<User>> GetAsync() => await connection.Table<User>().ToListAsync();
 
-        public async Task<User> GetUser(string Name) => await connection.Table<User>().Where(u => u.Name.ToLower().Equals(Name.ToLower())).FirstOrDefaultAsync();
+        public async Task<User> GetUser(string email) => await connection.Table<User>().Where(u => u.Email.ToLower().Equals(email.ToLower())).FirstOrDefaultAsync();
         
 
         public Task<int> UpdateAsync(User user) => connection.UpdateAsync(user);

@@ -1,1 +1,1 @@
-C:\Users\USER\Source\Repos\Demo-CRUD-Operation-With-SQLite-Maui\DemoCRUDOperationWithSQLite\DemoCRUDOperationWithSQLite.csproj;x64
+C:\Users\USER\source\repos\Demo-CRUD-Operation-With-SQLite-Maui\DemoCRUDOperationWithSQLite\DemoCRUDOperationWithSQLite.csproj;x64

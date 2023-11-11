@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vJdHVW0WGKkLnSEBKZTfddMYp87z+4uDBRK9TGjlPz+EtrdiFUaNyCNCQaoOIpXLkp6vGp6uvuSz/d6qeLxf6A==",
+  "dgSpecHash": "L7HYkirIYbWTg54Ab17rYrVAUddvahF2MYXRNdyt7uGlS8gl0QpZjjRVHy9cyF2/iITMV6z1ttIurzQnDbRK+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\Demo-CRUD-Operation-With-SQLite-Maui\\DemoCRUDOperationWithSQLite\\DemoCRUDOperationWithSQLite.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Demo-CRUD-Operation-With-SQLite-Maui\\DemoCRUDOperationWithSQLite\\DemoCRUDOperationWithSQLite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\communitytoolkit.maui\\5.3.0\\communitytoolkit.maui.5.3.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\communitytoolkit.maui.core\\5.3.0\\communitytoolkit.maui.core.5.3.0.nupkg.sha512",

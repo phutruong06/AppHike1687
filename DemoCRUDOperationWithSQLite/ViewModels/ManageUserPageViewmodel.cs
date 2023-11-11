@@ -41,13 +41,11 @@ namespace DemoCRUDOperationWithSQLite.ViewModels
             var result = -1;
             if (NewUser.Id > 0)
             {
-                var checkUser = await userService.GetUser(NewUser.Name);
+                var checkUser = await userService.GetUser(NewUser.Email);
 
                 if (checkUser != null)
                 {
-                    if (checkUser.Name == NewUser.Name && checkUser.Discription == NewUser.Discription && checkUser.Location == NewUser.Location
-                         && checkUser.Length == NewUser.Length
-                        )
+                    if (checkUser.Name == NewUser.Name && checkUser.Email == NewUser.Email && checkUser.Location == NewUser.Location)
                     {
                         CreateToast("User already exist"); return;
                     }

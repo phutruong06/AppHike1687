@@ -4,7 +4,7 @@
              x:Class="DemoCRUDOperationWithSQLite.Views.UserDetailsPage"
              xmlns:viewmodel="clr-namespace:DemoCRUDOperationWithSQLite.ViewModels"
              x:DataType="viewmodel:UserDetailsPageViewModel"
-             Title="Hike Details Page">
+             Title="HikeDetailsPage">
 
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Home" Command="{Binding HomeCommand}"></ToolbarItem>
@@ -12,9 +12,12 @@
 
 <VerticalStackLayout Spacing="10" Margin="10" Padding="10">
         <Label Text="{Binding NewUserModel.Name}"></Label>
-        
+        <Label Text="{Binding NewUserModel.Email}"></Label>
         <Label Text="{Binding NewUserModel.Location}"></Label>
-        <Label Text="{Binding NewUserModel.Discription}"></Label>
+        <Label Text="{Binding NewUserModel.Date}"></Label>
         <Label Text="{Binding NewUserModel.Length}"></Label>
+        <Label Text="{Binding NewUserModel.Level}"></Label>
+        <Label Text="{Binding NewUserModel.Disciption}"></Label>
+        <Label Text="{Binding NewUserModel.Parking}"></Label>
     </VerticalStackLayout>
 </ContentPage>
