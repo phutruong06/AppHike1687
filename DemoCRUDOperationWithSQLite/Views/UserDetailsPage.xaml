@@ -14,7 +14,7 @@
         <Label Text="{Binding NewUserModel.Name}"></Label>
         <Label Text="{Binding NewUserModel.Email}"></Label>
         <Label Text="{Binding NewUserModel.Location}"></Label>
-        <Label Text="{Binding NewUserModel.Date}"></Label>
+        <Label Text="{Binding NewUserModel.Date }"></Label>
         <Label Text="{Binding NewUserModel.Length}"></Label>
         <Label Text="{Binding NewUserModel.Level}"></Label>
         <Label Text="{Binding NewUserModel.Disciption}"></Label>

@@ -6,7 +6,7 @@
              x:DataType="viewmodel:ManageUserPageViewmodel"
              xmlns:inputLayout="clr-namespace:Syncfusion.Maui.Core;assembly=Syncfusion.Maui.Core"
              Title="{Binding Title}">
-
+    <ScrollView>
     <VerticalStackLayout Margin="0,10,0,0">
         <inputLayout:SfTextInputLayout Hint="Name">
             <Entry Text="{Binding NewUser.Name}" />
@@ -24,7 +24,7 @@
         <BoxView></BoxView>
 
         <inputLayout:SfTextInputLayout Hint="Date">
-            <Entry Text="{Binding NewUser.Date}" />
+                <Entry Text="{Binding NewUser.Date}"/>
         </inputLayout:SfTextInputLayout>
         <BoxView></BoxView>
 
@@ -50,4 +50,5 @@
 
         <Button Text="Save Data" Margin="10" Command="{Binding SaveUserCommand}"></Button>
     </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

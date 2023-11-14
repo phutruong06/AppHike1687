@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\Demo-CRUD-Operation-With-SQLite-Maui\\DemoCRUDOperationWithSQLite\\DemoCRUDOperationWithSQLite.csproj": {}
+    "C:\\Appmobile report\\AppHike1687\\DemoCRUDOperationWithSQLite\\DemoCRUDOperationWithSQLite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\Demo-CRUD-Operation-With-SQLite-Maui\\DemoCRUDOperationWithSQLite\\DemoCRUDOperationWithSQLite.csproj": {
+    "C:\\Appmobile report\\AppHike1687\\DemoCRUDOperationWithSQLite\\DemoCRUDOperationWithSQLite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Demo-CRUD-Operation-With-SQLite-Maui\\DemoCRUDOperationWithSQLite\\DemoCRUDOperationWithSQLite.csproj",
+        "projectUniqueName": "C:\\Appmobile report\\AppHike1687\\DemoCRUDOperationWithSQLite\\DemoCRUDOperationWithSQLite.csproj",
         "projectName": "DemoCRUDOperationWithSQLite",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\Demo-CRUD-Operation-With-SQLite-Maui\\DemoCRUDOperationWithSQLite\\DemoCRUDOperationWithSQLite.csproj",
+        "projectPath": "C:\\Appmobile report\\AppHike1687\\DemoCRUDOperationWithSQLite\\DemoCRUDOperationWithSQLite.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\Demo-CRUD-Operation-With-SQLite-Maui\\DemoCRUDOperationWithSQLite\\obj\\",
+        "outputPath": "C:\\Appmobile report\\AppHike1687\\DemoCRUDOperationWithSQLite\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

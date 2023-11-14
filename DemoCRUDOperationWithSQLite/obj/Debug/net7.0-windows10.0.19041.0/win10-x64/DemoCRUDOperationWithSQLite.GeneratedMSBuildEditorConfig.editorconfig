@@ -8,51 +8,51 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DemoCRUDOperationWithSQLite
-build_property.ProjectDir = C:\Users\USER\source\repos\Demo-CRUD-Operation-With-SQLite-Maui\DemoCRUDOperationWithSQLite\
+build_property.ProjectDir = C:\Appmobile report\AppHike1687\DemoCRUDOperationWithSQLite\
 
-[C:/Users/USER/source/repos/Demo-CRUD-Operation-With-SQLite-Maui/DemoCRUDOperationWithSQLite/App.xaml]
+[C:/Appmobile report/AppHike1687/DemoCRUDOperationWithSQLite/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DemoCRUDOperationWithSQLite.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/USER/source/repos/Demo-CRUD-Operation-With-SQLite-Maui/DemoCRUDOperationWithSQLite/AppShell.xaml]
+[C:/Appmobile report/AppHike1687/DemoCRUDOperationWithSQLite/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DemoCRUDOperationWithSQLite.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/USER/source/repos/Demo-CRUD-Operation-With-SQLite-Maui/DemoCRUDOperationWithSQLite/MainPage.xaml]
+[C:/Appmobile report/AppHike1687/DemoCRUDOperationWithSQLite/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DemoCRUDOperationWithSQLite.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/USER/source/repos/Demo-CRUD-Operation-With-SQLite-Maui/DemoCRUDOperationWithSQLite/Resources/Styles/Colors.xaml]
+[C:/Appmobile report/AppHike1687/DemoCRUDOperationWithSQLite/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DemoCRUDOperationWithSQLite.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/USER/source/repos/Demo-CRUD-Operation-With-SQLite-Maui/DemoCRUDOperationWithSQLite/Resources/Styles/Styles.xaml]
+[C:/Appmobile report/AppHike1687/DemoCRUDOperationWithSQLite/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DemoCRUDOperationWithSQLite.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/USER/source/repos/Demo-CRUD-Operation-With-SQLite-Maui/DemoCRUDOperationWithSQLite/Views/ManageUserPage.xaml]
+[C:/Appmobile report/AppHike1687/DemoCRUDOperationWithSQLite/Views/ManageUserPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DemoCRUDOperationWithSQLite.Views.ManageUserPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\ManageUserPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\ManageUserPage.xaml
 
-[C:/Users/USER/source/repos/Demo-CRUD-Operation-With-SQLite-Maui/DemoCRUDOperationWithSQLite/Views/UserDetailsPage.xaml]
+[C:/Appmobile report/AppHike1687/DemoCRUDOperationWithSQLite/Views/UserDetailsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DemoCRUDOperationWithSQLite.Views.UserDetailsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\UserDetailsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\UserDetailsPage.xaml
 
-[C:/Users/USER/source/repos/Demo-CRUD-Operation-With-SQLite-Maui/DemoCRUDOperationWithSQLite/Views/UsersListPage.xaml]
+[C:/Appmobile report/AppHike1687/DemoCRUDOperationWithSQLite/Views/UsersListPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DemoCRUDOperationWithSQLite.Views.UsersListPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\UsersListPage.xaml
